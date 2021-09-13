@@ -1,0 +1,1 @@
+fikk riktig svar, men er ikke sikker på om det var greit å bruke function.
