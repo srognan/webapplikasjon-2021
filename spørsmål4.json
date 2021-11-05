@@ -1,0 +1,21 @@
+"questions": [
+    {
+      "title": "Når vet man om man har god nok test dekning?",
+      "answers": [
+        { "answere": "Når man har testet alt av kode" },
+        {
+          "answere": "Når man har testet 50% av kode"
+        },
+        {
+          "answere": "Når det står godkjent på github"
+        },
+        {
+          "answere": "Det handler om å ha gode og nyttige tester",
+          "correct": true
+        }
+      ],
+      "helper": {
+        "text": "Det er ett streb å prøve å få høy prosent test dekning, det er bedre at testene du lager er gode og nyttige"
+      }
+    }
+  ]
