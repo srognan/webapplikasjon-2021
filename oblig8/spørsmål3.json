@@ -1,0 +1,21 @@
+"questions": [
+    {
+      "title": "Hva er asynkronitet?",
+      "answers": [
+        { "answere": "Asynkronitet er noe som skjer NÅ" },
+        {
+          "answere": "Vet ikke hva ordet betyr"
+        },
+        {
+          "answere": "Asynkronitet er noe som har skjedd"
+        },
+        {
+          "answere": "asynkronitet er noe som ikke har skjedd enda",
+          "correct": true
+        }
+      ],
+      "helper": {
+        "text": "Asynkronitet er noe som ikke har skjedd enda altså noe vi venter på at skal skje i koden."
+      }
+    }
+  ]

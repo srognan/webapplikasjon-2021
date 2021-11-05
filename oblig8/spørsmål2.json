@@ -1,0 +1,21 @@
+"questions": [
+    {
+      "title": "Hvilke to funksjoner kan man bruke i jest i henhold til testing?",
+      "answers": [
+        { "answere": "Det finnes ikke funksjoner til testing i jest" },
+        {
+          "answere": "try eller should"
+        },
+        {
+          "answere": "test eller if"
+        },
+        {
+          "answere": "test eller it",
+          "correct": true
+        }
+      ],
+      "helper": {
+        "text": "I jest kan man velge mellom å bruke test eller it, det er helt opp til enhver"
+      }
+    }
+  ]
